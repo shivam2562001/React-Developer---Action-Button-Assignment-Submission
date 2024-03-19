@@ -1,5 +1,5 @@
 # Run Project
 
-> ``` npm i ```
-> ``` npm run story-book ```
+1.) ``` npm i ```
+2.) ``` npm run story-book ```
 
